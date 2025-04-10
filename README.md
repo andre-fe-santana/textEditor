@@ -28,6 +28,11 @@ pip install customtkinter
 pip install pathlib
 ```
 
+acesse a pasta:
+```py
+cd textEditor
+```
+
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* e *pull requests*.
